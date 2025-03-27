@@ -1,7 +1,7 @@
 ### EXPT   NO 5	:		ERROR CONTROL CODING SCHEME
 ### DATE		:
 
-### AIM: 
+### AIM : 
 To implement error control coding schemes with linear block codes using MATLAB.
 
 SOFTWARE REQUIRED:MATLAB
